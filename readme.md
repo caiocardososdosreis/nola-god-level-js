@@ -13,22 +13,3 @@ O dashboard permite:
 
 ---
 
-## Estrutura do Projeto
-
-nola-god-level-js/
-├── frontend/ # Frontend (HTML/JS/CSS)
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
-├── backend/ # Backend (API REST)
-│ ├── main.py
-│ ├── database.py
-│ ├── models.py
-│ ├── schemas.py
-│ ├── routes/
-│ │ ├── analytics.py
-│ │ ├── metrics.py
-│ │ └── sales.py
-│ └── seed.py
-├── requirements.txt # Dependências Python
-└── README.md# nola-god-level-js
